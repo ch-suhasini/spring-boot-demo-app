@@ -1,8 +1,8 @@
 # prerequisites to run the application
-* Install Java 1.8 and the command "java -version" should show java version.
-* Install Maven 3.5.4
+* Java 8
+* Maven 3.5.4
 
-# To run the program from command line
+# To run the application from command line
 * git clone https://github.com/ch-suhasini/spring-boot-demo-app
 * cd spring-boot-demo-app
 * mvn clean install
