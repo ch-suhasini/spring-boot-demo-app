@@ -1,4 +1,4 @@
-# prerequisites to run the progam
+# prerequisites to run the application
 * Install Java 1.8 and the command "java -version" should show java version.
 * Install Maven 3.5.4
 
