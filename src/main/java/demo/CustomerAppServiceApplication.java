@@ -2,7 +2,10 @@ package demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+/**
+ *  This class acts as the launching point for application.
+ */
 
 @SpringBootApplication
 public class CustomerAppServiceApplication {
