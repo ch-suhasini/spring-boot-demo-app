@@ -8,6 +8,6 @@
 * mvn clean install
 * java -jar  target/customer-app-service-0.0.1-SNAPSHOT.jar
 * Swagger url - http://localhost:8080/swagger-ui.html
-
+* Code coverage - \target\jacoco-ut\index.html
 
 
